@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">SENSORES</string>
+    <string name="Iniciar">EJECUTAR</string>
+    <string name="Detener">DETENER</string>
+    <string name="SensorLuz">LUMINUCIDAD</string>
+    <string name="Luz">LUZ</string>
+
+
+</resources>
